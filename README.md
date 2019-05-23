@@ -7,7 +7,8 @@ using System.IO;
 
 namespace AgendaProjec_1
 {
-    class Program
+     
+     class Program
     {
         //Listas Globais
         static List<string> ListaNome;
@@ -482,5 +483,4 @@ namespace AgendaProjec_1
         {
             Menu();
         }
-    }
-}
+    }}
